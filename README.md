@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @mabaydin
-- 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning Advance Python Scripting, Complex SQL, R and many more.
-- 📫 How to reach me @mabaydin
 
-<!---
-mabaydin/mabaydin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Minhazul Abaydin, working as a data analyst for a couple of years now, with a certificate from Google: "Google Data Analytics." Besides my prolonged training in SQL, Python, and R, I have completed my B.Sc, and M.Sc. in Economics. I firmly believe that Data will bring the next revolution, and if we use it for a good cause, we can reshape the future perfectly. 
+
+Index
+Personal Projects(Under Construction): 
+I am planning to showcase my work with thighlights form topics, such as: 
+•	Python
+•	SQL
+•	Tableau
+Professional Accomplishments
