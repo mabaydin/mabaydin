@@ -6,5 +6,9 @@ Personal Projects(Under Construction):
 I am planning to showcase my work with thighlights form topics, such as: 
 •	Python
 •	SQL
-•	Tableau
+• Tableau
+• QlikView 
+•	Qliksense 
+•	PowerBI
 Professional Accomplishments
+Financial Dashboard of Audi
